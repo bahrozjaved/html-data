@@ -1,0 +1,31 @@
+.tick {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    width: 50px;
+    height: 250px;
+  }
+
+  .n1 {
+  
+    text-align-last: center;
+    font-size: 50px;
+    color:		#1b9c32;
+  }
+  
+  .n2 {
+  
+    text-align-last: center;
+    font-size: 40px;
+    color:		#8d1cc5;
+  }
+  
+  .n3 {
+  text-align: center;
+    font-size: 50px;
+    color:		#8d1cc5;
+    align-items: center;
+    
+  }
+  

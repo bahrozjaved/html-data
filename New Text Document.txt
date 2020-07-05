@@ -1,0 +1,10 @@
+"firebase login"
+"firebase init" into the desired directory
+then select the given option
+then paste all the files in pulic folder
+then run on local server using "firebase serve"
+then globally deploy using firbase deploy
+
+
+
+roll no wm2872
